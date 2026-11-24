@@ -59,3 +59,10 @@ Pe baza informațiilor studiate, au fost realizate documente teoretice, au fost 
 ## Concluzie
 
 Prin realizarea acestui studiu individual am consolidat cunoștințele dobândite în cadrul cursului, am utilizat diferite surse de documentare și am acumulat experiență practică în organizarea documentelor, utilizarea Git și publicarea proiectelor pe GitHub.
+
+## 📌 Etapele realizării studiului
+
+- Documentarea folosind materialele de pe Moodle.
+- Analizarea aplicației IntelliJ IDEA.
+- Învățarea comenzilor Git.
+- Crearea și publicarea repository-ului pe GitHub.
